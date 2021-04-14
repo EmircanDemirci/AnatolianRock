@@ -1,0 +1,12 @@
+@font-face {
+    font-family: secularOne;
+    src: url("./../fonts/SecularOne-Regular.ttf");
+}
+@font-face {
+    font-family: seoulCL;
+    src: url("./../fonts/SeoulNamsanCondensed-Light.ttf");
+}
+@font-face {
+    font-family: seoulCM;
+    src: url("./../fonts/SeoulNamsanCondensed-Medium.ttf");
+}
